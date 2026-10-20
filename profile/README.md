@@ -40,7 +40,3 @@ Books can be grouped into a series that shares one style guide and set of settin
 | Later | Chat, review, plugins and more export formats |
 
 Codex is free and open source. Watch this org to follow along and to hear when early access opens.
-
-### Repositories
-
-- [`codexsuite.app`](https://github.com/codexsuite/codexsuite.app): the landing page and design assets
